@@ -1,4 +1,3 @@
-let message: string="hello,Typescript!nodenode!!
-";
+let message: string="hello,Typescript!nodenode!!";
 console.log({message});
 
